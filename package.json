@@ -16,6 +16,7 @@
     "chokidar": "^3.6.0",
     "concat-map": "^0.0.1",
     "debug": "^4.4.1",
+    "express": "^5.1.0",
     "fill-range": "^7.1.1",
     "glob-parent": "^5.1.2",
     "has-flag": "^3.0.0",
